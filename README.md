@@ -1,8 +1,8 @@
 # Phone Specifications Django Project
 
 ## Description
-Django project that runs a Selenium to collect phone specifications
-and stores them in PostgreSQL.
+Django project that runs a Selenium script to fetch the phone's specifications
+from the website and stores them in the PostgreSQL database.
 
 ## Tech stack
 - Python
